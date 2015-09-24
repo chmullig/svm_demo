@@ -1,0 +1,3 @@
+[submodule "nyt_weddings"]
+	path = nyt_weddings
+	url = https://github.com/TheUpshot/nyt_weddings.git
