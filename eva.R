@@ -1,3 +1,8 @@
+library(ggplot2)
+library(e1071)
+library(stringr)
+library(lubridate)
+
 #data from: https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn
 eva <- read.csv('eva.csv')
 
